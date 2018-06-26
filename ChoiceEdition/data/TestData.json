@@ -1,0 +1,234 @@
+[
+    {
+        "question": "What is the main topic of the talk?",
+        "options": [
+            "Why the dusky seaside sparrow became extinct.",
+            "The difficulties of protecting both animals and their habitats.",
+            "Reasons that the Endagenered Species Act isn't working."
+        ],
+        "correct": [
+            "The difficulties of protecting both animals and their habitats."
+        ],
+        "count": -1
+    },
+    {
+        "question": "What does the Endagered Species Act protect?",
+        "options": [
+            "Endangered animals and their habitats.",
+            "Endagenered animals but not their habitats.",
+            "Animal habitats but not endagenered animals."
+        ],
+        "correct": [
+            "Endangered animals and their habitats."
+        ],
+        "count": -4
+    },
+    {
+        "question": "What has happended since the passage of the Endangered Species Act?",
+        "options": [
+            "The number of species that are endangered has greatyly decreased.",
+            "The number of species that are endangered has increased a lot.",
+            "The number of species that are endangered has not changed much."
+        ],
+        "correct": [
+            "The number of species that are endangered has not changed much."
+        ],
+        "count": -2
+    },
+    {
+        "question": "Most species of the baleen whales are now endangered.",
+        "options": [
+            "t",
+            "f"
+        ],
+        "correct": [
+            "t"
+        ],
+        "count": -1
+    },
+    {
+        "question": "A number of countries continue with commercial whaling simply because there is no policy against it.",
+        "options": [
+            "t",
+            "f"
+        ],
+        "correct": [
+            "t"
+        ],
+        "count": -4
+    },
+    {
+        "question": "California gray whales are now extinct.",
+        "options": [
+            "t",
+            "f"
+        ],
+        "correct": [
+            "f"
+        ],
+        "count": -3
+    },
+    {
+        "question": "According to the conversation, we can help by donating money to the conservation organizations.",
+        "options": [
+            "t",
+            "f"
+        ],
+        "correct": [
+            "f"
+        ],
+        "count": -4
+    },
+    {
+        "question": "All the endangered species of freshwater fish are in North America.",
+        "options": [
+            "t",
+            "f"
+        ],
+        "correct": [
+            "f"
+        ],
+        "count": -2
+    },
+    {
+        "question": "The fish biologist feels discouraged sometimes by the bad situation for freshwater fish.",
+        "options": [
+            "t",
+            "f"
+        ],
+        "correct": [
+            "f"
+        ]
+    },
+    {
+        "question": "The fish bioloist suggests that people should volunteer to help clean up the rivers.",
+        "options": [
+            "t",
+            "f"
+        ],
+        "correct": [
+            "t"
+        ],
+        "count": -2
+    },
+    {
+        "question": "According to the research, most people think that a beautiful face is ___.",
+        "options": [
+            "a face with small eyes.",
+            "average and almost symmetrical",
+            "a face with a big nose"
+        ],
+        "correct": [
+            "average and almost symmetrical"
+        ],
+        "count": -1
+    },
+    {
+        "question": "The \"golden ratio\" for the length of a face states that the distance between the eyes and the mouth is ___ of the length of the whold face.",
+        "options": [
+            "36 percent",
+            "56 percent",
+            "66 percent"
+        ],
+        "correct": [
+            "36 percent"
+        ],
+        "count": -4
+    },
+    {
+        "question": "Anthropologist Don Symons believed that men prefer full lips and big eyes because they think these features equal ___.",
+        "options": [
+            "beauty and attraction",
+            "intelligence and wisdom",
+            "health and ability to have babies"
+        ],
+        "correct": [
+            "health and ability to have babies"
+        ],
+        "count": 0
+    },
+    {
+        "question": "The reporter Gwen Silva would probably agree with the conclusion that ___.",
+        "options": [
+            "beauty is in the eye of the beholder.",
+            "there is no variation in the idaase about beauty among cultures.",
+            "people from the same culture mosyly agree on what makes someone beautiful."
+        ],
+        "correct": [
+            "people from the same culture mosyly agree on what makes someone beautiful."
+        ],
+        "count": 0
+    },
+    {
+        "question": "What happens when Padaung women wear brass coils?",
+        "options": [
+            "Their heads are pushed up.",
+            "Their necks become longer.",
+            "Their shoulders are lowered."
+        ],
+        "correct": [
+            "Their shoulders are lowered."
+        ],
+        "count": -4
+    },
+    {
+        "question": "How do some of the Padaung people make a living in Thailand?",
+        "options": [
+            "They work at restaurants.",
+            "They sell things to tourists.",
+            "They drive taxis and buses."
+        ],
+        "correct": [
+            "They sell things to tourists."
+        ],
+        "count": -3
+    },
+    {
+        "question": "Why do Padaung women continue to wear brass cils?",
+        "options": [
+            "Because the coils show that the women are from rich families.",
+            "Because the coils show that the women belong to the Padaung tribe.",
+            "Because the coils show that the women can endure physical pain."
+        ],
+        "correct": [
+            "Because the coils show that the women belong to the Padaung tribe."
+        ],
+        "count": -1
+    },
+    {
+        "question": "What is people's attitude toward cosmetic surgery?",
+        "options": [
+            "They think it is frightening.",
+            "They cannot accept it.",
+            "People's attitude has changed over time."
+        ],
+        "correct": [
+            "People's attitude has changed over time."
+        ],
+        "count": -5
+    },
+    {
+        "question": "What is the most popular type of cosmetic surgery?",
+        "options": [
+            "Liposuction.",
+            "Hair transplant.",
+            "Breast augmentation."
+        ],
+        "correct": [
+            "Breast augmentation."
+        ],
+        "count": -1
+    },
+    {
+        "question": "What can modern cosmetic surgery do?",
+        "options": [
+            "It can help people look healthier.",
+            "It can help people look more graceful.",
+            "It can make people look the way they want to look like."
+        ],
+        "correct": [
+            "It can make people look the way they want to look like."
+        ],
+        "count": -3
+    }
+]

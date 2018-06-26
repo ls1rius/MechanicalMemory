@@ -1,234 +1,2026 @@
 [
     {
-        "question": "What is the main topic of the talk?",
+        "question": "V模型描述了软件基本的开发过程和测试行为，描述了不同测试阶段与开发过程各阶段的对应关系。其中，集成测试阶段对应的开发阶段是( )。",
         "options": [
-            "Why the dusky seaside sparrow became extinct.",
-            "The difficulties of protecting both animals and their habitats.",
-            "Reasons that the Endagenered Species Act isn't working."
+            ".需求分析阶段",
+            ".概要设计阶段",
+            ".详细设计阶段.",
+            ".编码阶段"
         ],
+        "count": 0,
         "correct": [
-            "The difficulties of protecting both animals and their habitats."
-        ],
-        "count": -1
-    },
-    {
-        "question": "What does the Endagered Species Act protect?",
-        "options": [
-            "Endangered animals and their habitats.",
-            "Endagenered animals but not their habitats.",
-            "Animal habitats but not endagenered animals."
-        ],
-        "correct": [
-            "Endangered animals and their habitats."
-        ],
-        "count": -4
-    },
-    {
-        "question": "What has happended since the passage of the Endangered Species Act?",
-        "options": [
-            "The number of species that are endangered has greatyly decreased.",
-            "The number of species that are endangered has increased a lot.",
-            "The number of species that are endangered has not changed much."
-        ],
-        "correct": [
-            "The number of species that are endangered has not changed much."
-        ],
-        "count": -2
-    },
-    {
-        "question": "Most species of the baleen whales are now endangered.",
-        "options": [
-            "t",
-            "f"
-        ],
-        "correct": [
-            "t"
-        ],
-        "count": -1
-    },
-    {
-        "question": "A number of countries continue with commercial whaling simply because there is no policy against it.",
-        "options": [
-            "t",
-            "f"
-        ],
-        "correct": [
-            "t"
-        ],
-        "count": -4
-    },
-    {
-        "question": "California gray whales are now extinct.",
-        "options": [
-            "t",
-            "f"
-        ],
-        "correct": [
-            "f"
-        ],
-        "count": -3
-    },
-    {
-        "question": "According to the conversation, we can help by donating money to the conservation organizations.",
-        "options": [
-            "t",
-            "f"
-        ],
-        "correct": [
-            "f"
-        ],
-        "count": -4
-    },
-    {
-        "question": "All the endangered species of freshwater fish are in North America.",
-        "options": [
-            "t",
-            "f"
-        ],
-        "correct": [
-            "f"
-        ],
-        "count": -2
-    },
-    {
-        "question": "The fish biologist feels discouraged sometimes by the bad situation for freshwater fish.",
-        "options": [
-            "t",
-            "f"
-        ],
-        "correct": [
-            "f"
+            ".概要设计阶段"
         ]
     },
     {
-        "question": "The fish bioloist suggests that people should volunteer to help clean up the rivers.",
+        "question": "软件测试类型按开发阶段划分为( )。",
         "options": [
-            "t",
-            "f"
+            ".需求测试、单元测试、集成测试、验证测试",
+            "单元测试、集成测试、确认测试、系统测试、验收测试",
+            "单元测试、集成测试、验证测试、确认测试、验收测试",
+            "调试、单元测试、集成测试、用户测试"
         ],
+        "count": 0,
         "correct": [
-            "t"
-        ],
-        "count": -2
+            "单元测试、集成测试、确认测试、系统测试、验收测试"
+        ]
     },
     {
-        "question": "According to the research, most people think that a beautiful face is ___.",
+        "question": "测试是为了寻找软件的错误与缺陷，评估与提高软件的质量，则软件测试的原则包括(  )。①问题的互相确认②所有的软件测试都应该追溯到用户需求③完全测试是不可能的，测试需要终止④充分注意测试中的群集现象⑤尽量避免测试的随意性⑥软件测试者应该坚持“尽早地和不断地进行软件测试”⑦程序员应避免检查自己的程序",
         "options": [
-            "a face with small eyes.",
-            "average and almost symmetrical",
-            "a face with a big nose"
+            "①②④⑤⑦",
+            "①③④⑤⑥⑦",
+            "①②③④⑤⑥⑦",
+            "①②③⑤⑥"
         ],
+        "count": 0,
         "correct": [
-            "average and almost symmetrical"
-        ],
-        "count": -1
+            "①②③④⑤⑥⑦"
+        ]
     },
     {
-        "question": "The \"golden ratio\" for the length of a face states that the distance between the eyes and the mouth is ___ of the length of the whold face.",
+        "question": "为了使软件测试更加高效，应遵循的测试原则包括（ ）。①所有的软件测试都应道溯到用户需求、充分注意缺陷群集现象②尽早地和不断地进行软件测试回归测试③为了证明程序的正确性，尽可能多地开发测试用例④应由不同的测试人员对测试所发现的缺陷进行确认⑤增量测试，由小到大",
         "options": [
-            "36 percent",
-            "56 percent",
-            "66 percent"
+            "①②③④",
+            "①③④⑤",
+            "②③④",
+            "①②④⑤"
         ],
+        "count": 0,
         "correct": [
-            "36 percent"
-        ],
-        "count": -4
+            "①②④⑤"
+        ]
     },
     {
-        "question": "Anthropologist Don Symons believed that men prefer full lips and big eyes because they think these features equal ___.",
+        "question": "广义的软件测试是由确认、验证、测试3个方面组成，其中验证是指（ ）。",
         "options": [
-            "beauty and attraction",
-            "intelligence and wisdom",
-            "health and ability to have babies"
+            ".想证实在一个给定的外部环境中软件的逻辑正确性",
+            ".检测软件开发的每个阶段、每个步骤的结果是否正确无误，是否与软件开发各阶段的要求或期望的结果相一致",
+            "评估将要开发的软件产品是否正确无误、可行和有价值",
+            "保证所生产的软件可追溯到用户需求的一系列活动"
         ],
+        "count": 0,
         "correct": [
-            "health and ability to have babies"
-        ],
-        "count": 0
+            ".检测软件开发的每个阶段、每个步骤的结果是否正确无误，是否与软件开发各阶段的要求或期望的结果相一致"
+        ]
     },
     {
-        "question": "The reporter Gwen Silva would probably agree with the conclusion that ___.",
+        "question": "下面关于确认和验证的描述中，正确的是( )。",
         "options": [
-            "beauty is in the eye of the beholder.",
-            "there is no variation in the idaase about beauty among cultures.",
-            "people from the same culture mosyly agree on what makes someone beautiful."
+            "确认想证实在任何外部环境中软件的逻辑正确性",
+            "验证试图证明在软件生存期各个阶段及阶段间的逻辑协调性、完备性和正确性",
+            "确认保证所生产的软件可追溯到软件详细设计的一系列活动",
+            "验证保证软件正确地实现了特定功能的软件需求、设计和编码活动"
         ],
+        "count": 0,
         "correct": [
-            "people from the same culture mosyly agree on what makes someone beautiful."
-        ],
-        "count": 0
+            "验证试图证明在软件生存期各个阶段及阶段间的逻辑协调性、完备性和正确性"
+        ]
     },
     {
-        "question": "What happens when Padaung women wear brass coils?",
+        "question": "下列（  ）不属于测试原则的内容",
         "options": [
-            "Their heads are pushed up.",
-            "Their necks become longer.",
-            "Their shoulders are lowered."
+            "软件测试是有风险的行为",
+            "完全测试程序是不可能的",
+            "测试无法显示潜伏的软件缺陷",
+            "找到的缺陷越多软件的缺陷就越少"
         ],
+        "count": 0,
         "correct": [
-            "Their shoulders are lowered."
-        ],
-        "count": -4
+            "找到的缺陷越多软件的缺陷就越少"
+        ]
     },
     {
-        "question": "How do some of the Padaung people make a living in Thailand?",
+        "question": "为了提高测试的效率，应该（  ）。",
         "options": [
-            "They work at restaurants.",
-            "They sell things to tourists.",
-            "They drive taxis and buses."
+            "随机地选取测试数据",
+            "取一切可能的输入数据作为测试数据",
+            "在完成编码以后制定软件的测试计划",
+            "选择发现错误的可能性大的数据作为测试数据"
         ],
+        "count": 0,
         "correct": [
-            "They sell things to tourists."
-        ],
-        "count": -3
+            "选择发现错误的可能性大的数据作为测试数据"
+        ]
     },
     {
-        "question": "Why do Padaung women continue to wear brass cils?",
+        "question": "下列（ ）不属于软件缺陷",
         "options": [
-            "Because the coils show that the women are from rich families.",
-            "Because the coils show that the women belong to the Padaung tribe.",
-            "Because the coils show that the women can endure physical pain."
+            "测试人员主观认为不合理的地方",
+            "软件未达到产品说明书标明的功能",
+            "软件出现了产品说明书指明不会出现的错误",
+            "软件功能超出产品说明书指明范围"
         ],
+        "count": 0,
         "correct": [
-            "Because the coils show that the women belong to the Padaung tribe."
-        ],
-        "count": -1
+            "测试人员主观认为不合理的地方"
+        ]
     },
     {
-        "question": "What is people's attitude toward cosmetic surgery?",
+        "question": "修复软件缺陷费用最高的是（  ）阶段。",
         "options": [
-            "They think it is frightening.",
-            "They cannot accept it.",
-            "People's attitude has changed over time."
+            "编制说明书",
+            "设计",
+            "编写代码",
+            "发布"
         ],
+        "count": 0,
         "correct": [
-            "People's attitude has changed over time."
-        ],
-        "count": -5
+            "发布"
+        ]
     },
     {
-        "question": "What is the most popular type of cosmetic surgery?",
+        "question": "下列项目中不属于测试文档的是（ ）",
         "options": [
-            "Liposuction.",
-            "Hair transplant.",
-            "Breast augmentation."
+            "测试计划",
+            "测试用例",
+            "程序流程图",
+            "测试报告"
         ],
+        "count": 0,
         "correct": [
-            "Breast augmentation."
-        ],
-        "count": -1
+            "程序流程图"
+        ]
     },
     {
-        "question": "What can modern cosmetic surgery do?",
+        "question": "软件测试中设计测试用例（test case）主要由（  ）和预期输出结果两部分组成。",
         "options": [
-            "It can help people look healthier.",
-            "It can help people look more graceful.",
-            "It can make people look the way they want to look like."
+            "测试规则",
+            "测试计划",
+            "输入数据",
+            "以往测试记录分析"
         ],
+        "count": 0,
         "correct": [
-            "It can make people look the way they want to look like."
+            "输入数据"
+        ]
+    },
+    {
+        "question": "成功的测试是指（  ）。",
+        "options": [
+            "运行测试实例后未发现错误项",
+            "发现程序的错误",
+            "证明程序正确",
+            "改正程序的错误"
         ],
-        "count": -3
+        "count": 0,
+        "correct": [
+            "发现程序的错误"
+        ]
+    },
+    {
+        "question": "测试是以发现错误为目的的，而（ ）是以定位，分析和改正错误为目的的。",
+        "options": [
+            "测试",
+            "排错（调试）",
+            "维护",
+            "开发"
+        ],
+        "count": 0,
+        "correct": [
+            "排错（调试）"
+        ]
+    },
+    {
+        "question": "下面（  ）不属于测试设计员的职责。",
+        "options": [
+            "制定测试计划",
+            "设计测试用例",
+            "设计测试过程、脚本",
+            "评估测试活动"
+        ],
+        "count": 0,
+        "correct": [
+            "评估测试活动"
+        ]
+    },
+    {
+        "question": "软件测试的目的是（  ）",
+        "options": [
+            "发现所有的错误",
+            "尽可能多地发现软件的错误",
+            "证明程序是正确的",
+            "调试程序"
+        ],
+        "count": 0,
+        "correct": [
+            "尽可能多地发现软件的错误"
+        ]
+    },
+    {
+        "question": "与设计测试用例无关的文档是（  ）",
+        "options": [
+            "需求规格说明书",
+            "项目开发计划书",
+            "设计说明书",
+            "源程序"
+        ],
+        "count": -1,
+        "correct": [
+            "项目开发计划书"
+        ]
+    },
+    {
+        "question": "软件调试应该由（  ）来完成。",
+        "options": [
+            "与编写该源程序无关的其他程序员",
+            "编写该源程序的程序员",
+            "专业软件测试人员",
+            "设计该软件的设计人员"
+        ],
+        "count": 0,
+        "correct": [
+            "编写该源程序的程序员"
+        ]
+    },
+    {
+        "question": "软件缺陷、软件错误和软件失败的关系？（  ）",
+        "options": [
+            "软件缺陷导致软件错误，软件错误导致软件失败。",
+            "软件缺陷导致软件失败，软件失败导致软件错误。",
+            "软件错误导致软件缺陷，软件错误导致软件失败。",
+            "软件失败导致软件错误，软件错误导致软件缺陷。"
+        ],
+        "count": 0,
+        "correct": [
+            "软件缺陷导致软件错误，软件错误导致软件失败。"
+        ]
+    },
+    {
+        "question": "测试用例（test case）主要由输入数据和（  ）两部分组成。",
+        "options": [
+            "测试规则",
+            "测试计划",
+            "以往测试记录分析",
+            "预期输出数据"
+        ],
+        "count": 0,
+        "correct": [
+            "预期输出数据"
+        ]
+    },
+    {
+        "question": "下面说法正确的是（  ）",
+        "options": [
+            "经过测试没有发现错误说明程序是正确的",
+            "测试的目的是为了证明程序没有错误",
+            "成功的测试是发现了迄今为止没有发现的错误",
+            "成功的测试是没有发现错误的测试"
+        ],
+        "count": 0,
+        "correct": [
+            "成功的测试是发现了迄今为止没有发现的错误"
+        ]
+    },
+    {
+        "question": "软件测试中最基础的环节是(  )",
+        "options": [
+            "功能测试",
+            "单元测试",
+            "性能测试",
+            "验收测试"
+        ],
+        "count": 0,
+        "correct": [
+            "单元测试"
+        ]
+    },
+    {
+        "question": "可作为测试停止的标准是（  ）",
+        "options": [
+            "当预定测试时间用光时",
+            "执行了所有的测试用例，但没有发现故障",
+            "当所有发现的缺陷都已经清除时",
+            "当达到所要求的覆盖时"
+        ],
+        "count": -1,
+        "correct": [
+            "当达到所要求的覆盖时"
+        ]
+    },
+    {
+        "question": "用户参与度最高的测试阶段为( )",
+        "options": [
+            "单元测试",
+            "验收测试",
+            "系统测试",
+            "集成测试"
+        ],
+        "count": 0,
+        "correct": [
+            "验收测试"
+        ]
+    },
+    {
+        "question": "软件测试的目的是( )",
+        "options": [
+            "证明软件是正确的",
+            "评价软件的质量",
+            "发现软件缺陷",
+            "修复软件缺陷"
+        ],
+        "count": 0,
+        "correct": [
+            "发现软件缺陷"
+        ]
+    },
+    {
+        "question": "以下关于 lpha测试的描述中不正确的是(  )",
+        "options": [
+            "Alpha测试有用户代表参加",
+            "Alpha测试有测试人员参加",
+            "Alpha测试是系统测试的一种",
+            "Alpha测试是验收测试的一种"
+        ],
+        "count": 0,
+        "correct": [
+            "Alpha测试有用户代表参加"
+        ]
+    },
+    {
+        "question": "在软件生命周期的哪一个阶段,软件缺陷修复费用最低(  )",
+        "options": [
+            "需求分析(编制产品说明书)",
+            "设计",
+            "编码",
+            "产品发布"
+        ],
+        "count": -1,
+        "correct": [
+            "需求分析(编制产品说明书)"
+        ]
+    },
+    {
+        "question": "必须要求用户参与的测试阶段是(  )",
+        "options": [
+            "单元测试",
+            "集成测试",
+            "确认测试",
+            "验收测试"
+        ],
+        "count": 0,
+        "correct": [
+            "验收测试"
+        ]
+    },
+    {
+        "question": "软件测试员究竟做些什么。( )",
+        "options": [
+            "软件测试员的目的是发现软件缺陷",
+            "软件测试员的目的是发现软件缺陷,尽可能早一些",
+            "软件测试员的目的是发现软件缺陷,尽可能早一些,并确保其得以修复",
+            "软件测试员的目的是发现软件缺陷,尽可能早一些,并将其得以修复"
+        ],
+        "count": 0,
+        "correct": [
+            "软件测试员的目的是发现软件缺陷,尽可能早一些,并确保其得以修复"
+        ]
+    },
+    {
+        "question": "几乎没有产品计划、进度安排和正规的开发过程的软件开发模式是(  )",
+        "options": [
+            "大棒模式",
+            "边写边改模式",
+            "瀑布模式",
+            "快速原型开发模式"
+        ],
+        "count": 0,
+        "correct": [
+            "边写边改模式"
+        ]
+    },
+    {
+        "question": "（ ）不是正确的软件测试目的。",
+        "options": [
+            "尽最大的可能找出最多的错误",
+            "设计一个好的测试用例对用户需求的覆盖率达到100%",
+            "对软件质量进行度量和评估，以提高软件的质量",
+            "发现开发所采用的软件过程的缺陷，进行软件过程改进"
+        ],
+        "count": 0,
+        "correct": [
+            "设计一个好的测试用例对用户需求的覆盖率达到100%"
+        ]
+    },
+    {
+        "question": "（ ）不属于功能测试用例过程要素",
+        "options": [
+            "测试数据",
+            "测试步骤",
+            "预期结果",
+            "实测结果"
+        ],
+        "count": 0,
+        "correct": [
+            "实测结果"
+        ]
+    },
+    {
+        "question": "测试用例是测试使用的文档化的细则，其规定如何对软件某项功能或功能组合进行测试。测试用例应包括（ ）的详细信息。①测试目标和被测功能②测试环境和其他条件③测试数据和测试步骤④测试记录和测试结果",
+        "options": [
+            "①③",
+            "①②③",
+            "①③④",
+            "③④"
+        ],
+        "count": 0,
+        "correct": [
+            "①②③"
+        ]
+    },
+    {
+        "question": "在软件测试中，下列说法中错误的是（ ）。",
+        "options": [
+            "测试是为了发现程序中的错误而执行程序的过程",
+            "测试是为了表明程序是正确的",
+            "好的测试方案是极可能发现迄今为止尚未发现的错误的方案",
+            "成功的测试是发现了至今为止尚未发现的错误的测试"
+        ],
+        "count": 0,
+        "correct": [
+            "测试是为了表明程序是正确的"
+        ]
+    },
+    {
+        "question": "关于软件质量的描述，正确的是（ ）。",
+        "options": [
+            "软件质量是指软件满足规定用户需求的能力",
+            "软件质量特性是指软件的功能性、可靠性、易用性、效率、可维护性、可移植性",
+            "软件质量保证过程就是软件测试过程",
+            "以上描述都不对"
+        ],
+        "count": 0,
+        "correct": [
+            "软件质量特性是指软件的功能性、可靠性、易用性、效率、可维护性、可移植性"
+        ]
+    },
+    {
+        "question": "下列选项中，不属于软件测试工程师的职责范围的是（ ）。",
+        "options": [
+            "测试方案设计",
+            "测试用例设计",
+            "进行代码调优",
+            "测试实施"
+        ],
+        "count": 0,
+        "correct": [
+            "进行代码调优"
+        ]
+    },
+    {
+        "question": "测试用例设计是测试工作中最重要的工作之一，需要设计测试用例的原因不包括（ ）。",
+        "options": [
+            "避免盲目测试并提高测试效率，减少测试的不完全性",
+            "使用测试用例让软件测试的实施重点突出，目的明确",
+            "根据测试用例的多少盒执行难度，可以估算测试的工作量，便于测试目的时间和资源管理与跟踪",
+            "可以提高测试工程师的素质"
+        ],
+        "count": 0,
+        "correct": [
+            "可以提高测试工程师的素质"
+        ]
+    },
+    {
+        "question": "软件测试的对象包括（ ）。",
+        "options": [
+            "目标程序和相关文档",
+            "源程序、目标程序、数据及相关文档",
+            "目标程序、操作系统和平台软件",
+            "源程序和目标程序"
+        ],
+        "count": 0,
+        "correct": [
+            "源程序、目标程序、数据及相关文档"
+        ]
+    },
+    {
+        "question": "下面属于软件测试模型的是（ ）。",
+        "options": [
+            "W模型",
+            "瀑布模型",
+            "L模型",
+            "G模型"
+        ],
+        "count": 0,
+        "correct": [
+            "W模型"
+        ]
+    },
+    {
+        "question": "下面关于软件测试模型的描述中，不正确的是（ ）。①v模型的软件测试策略既包括低层测试，又包括高层测试，高层测试是为了确保源代码的正确性，低层测试是为了使整个系统满足用户的需求②V模型存在一定的局限性，它仅仅将测试过程作为在需求分析、概要设计、详细设计及编码之后的一个阶段③W模型可以说是v模型自然而然的发展，它强调:测试伴随者整个软件开发周期，而且测试的对象不仅仅是程序，需求、功能和设计同样要测试④H楼型中，软件测试是一个独立的流程，贯穿产品的整个生命周期，与其他流程并发地进行⑤H模型中，测试准备和测试实施紧密结合，有利于资源调配",
+        "options": [
+            "①⑤",
+            "②④",
+            "③④",
+            "②③"
+        ],
+        "count": 0,
+        "correct": [
+            "①⑤"
+        ]
+    },
+    {
+        "question": "下列关于W模型的描述中正确的是(  )。",
+        "options": [
+            "W模型强调测试伴随着整个软件开发周期，测试对象不仅仅是程序，需求、功能和设计同样需要测试",
+            "所有开发活动完成后，才可执行测试",
+            "W模型将软件的开发视为合同签订、需求、设计、编码等系列串行活动",
+            "在W模型中，需求、设计、编码串行进行，也可以并行工作"
+        ],
+        "count": 0,
+        "correct": [
+            "W模型强调测试伴随着整个软件开发周期，测试对象不仅仅是程序，需求、功能和设计同样需要测试"
+        ]
+    },
+    {
+        "question": "在软件开发几十年的实践过程中，人们总结了很多开发与测试模型，其中v模型就是经典的测试模型。下列关于V模型的特点描述正确的是(  )。",
+        "options": [
+            "V模型中，需求、分析、设计和编码的开发活动随时间而进行，与相应的测试活动(即针对需求、分析、设计和编码的测试)开展的次序一致",
+            "V模型的软件测试策略既包括低层测试，又包括高层测试，低层测试是为了确保源代码的正确性，高层测试是为了使整个系统满足用户的需求",
+            "V模型是软件开发螺旋模型的变种，它反映了测试活动与分析和设计的关系",
+            "V模型在实际应用中，需求阶段的错误在集成测试阶段被发现"
+        ],
+        "count": 0,
+        "correct": [
+            "V模型的软件测试策略既包括低层测试，又包括高层测试，低层测试是为了确保源代码的正确性，高层测试是为了使整个系统满足用户的需求"
+        ]
+    },
+    {
+        "question": "一个含有n个变量的程序，采用基本边界值分析法会产生（ ）个测试用例",
+        "options": [
+            "4n+1",
+            "6n+1",
+            "5n",
+            "4n"
+        ],
+        "count": 0,
+        "correct": [
+            "4n+1"
+        ]
+    },
+    {
+        "question": "如果一个程序有两个输入变量X1和X2，X1的输入边界是[a ,d ]，区间是[a ,b][b ,c][c ,d ]，X2的输入边界是[e ,g ]，区间是[e ,f][f ,g ]，则下列哪个图可以表示为健壮性测试用例？（  ）",
+        "options": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "count": 0,
+        "correct": [
+            ""
+        ]
+    },
+    {
+        "question": "某一系统中,操作的实施依赖于多个逻辑条件的组合。对该系统进行黑盒测试,最为适合的方法为(  )",
+        "options": [
+            "等价类划分",
+            "边界值分析",
+            "因果图法",
+            "决策表法"
+        ],
+        "count": 0,
+        "correct": [
+            "决策表法"
+        ]
+    },
+    {
+        "question": "黑盒测试还可以被称为什么测试?请找出以下不正确的选项是( )",
+        "options": [
+            "功能测试",
+            "结构测试",
+            "基于规格说明书的测试",
+            "数据驱动测试"
+        ],
+        "count": 0,
+        "correct": [
+            "结构测试"
+        ]
+    },
+    {
+        "question": "与黑盒测试无关的文档是(  )",
+        "options": [
+            "源程序",
+            "项目开发计划书",
+            "设计说明书",
+            "需求规格说明书"
+        ],
+        "count": 0,
+        "correct": [
+            "源程序"
+        ]
+    },
+    {
+        "question": "一个含有n个变量的程序,假设每一变量取值均有上下限。采用强健边界值分析法会产生(  )个测试用例?",
+        "options": [
+            "4n+1",
+            "6n+1",
+            "5n",
+            "4n"
+        ],
+        "count": 0,
+        "correct": [
+            "6n+1"
+        ]
+    },
+    {
+        "question": "根据输出对输入的依赖关系来设计测试用例的是(  )",
+        "options": [
+            "边界值分析",
+            "等价类划分",
+            "因果图法",
+            "错误推测法"
+        ],
+        "count": 0,
+        "correct": [
+            "因果图法"
+        ]
+    },
+    {
+        "question": "以下设计测试用例的方法中,最依赖于经验的是( )",
+        "options": [
+            "边界值分析",
+            "等价类划分",
+            "因果图法",
+            "错误推测法"
+        ],
+        "count": 0,
+        "correct": [
+            "错误推测法"
+        ]
+    },
+    {
+        "question": "在确定黑盒测试策略时,优先选用的方法是( )",
+        "options": [
+            "边界值分析法",
+            "等价类划分",
+            "错误推断法",
+            "决策表方法"
+        ],
+        "count": 0,
+        "correct": [
+            "等价类划分"
+        ]
+    },
+    {
+        "question": "划分软件测试属于白盒测试还是黑盒测试的依据是（  ）",
+        "options": [
+            "是否执行程序代码",
+            "是否能看到软件设计文档",
+            "是否能看到被测源程序",
+            "运行结果是否确定"
+        ],
+        "count": 0,
+        "correct": [
+            "是否能看到被测源程序"
+        ]
+    },
+    {
+        "question": "如果一个判定的复合条件表达式为（ >1）Or ( <=3)，则为了达到100%的条件覆盖率，至少需要设计多少个测试用例（B ）",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "count": 0,
+        "correct": [
+            "1"
+        ]
+    },
+    {
+        "question": "使用白盒测试方法时，确定测试数据应根据（  ）和指定的覆盖标准。",
+        "options": [
+            "程序的内部逻辑",
+            "程序的复杂程度",
+            "使用说明书  ",
+            "程序的功能"
+        ],
+        "count": 0,
+        "correct": [
+            "程序的内部逻辑"
+        ]
+    },
+    {
+        "question": "一个程序中所含有的路径数与（  ）有着直接的关系。",
+        "options": [
+            "程序的复杂程度",
+            "程序语句行数",
+            "程序模块数",
+            "程序指令执行时间"
+        ],
+        "count": 0,
+        "correct": [
+            "程序的复杂程度"
+        ]
+    },
+    {
+        "question": "下列几种逻辑覆盖标准中，查错能力最强的是（  ）",
+        "options": [
+            "语句覆盖",
+            "判定覆盖",
+            "条件覆盖",
+            "条件组合覆盖"
+        ],
+        "count": 0,
+        "correct": [
+            "条件组合覆盖"
+        ]
+    },
+    {
+        "question": "QIP默认使用（ ）语言编写程序来加强代码的功能。",
+        "options": [
+            "Java",
+            "C",
+            "VBScript",
+            "以上均可"
+        ],
+        "count": 0,
+        "correct": [
+            "VBScript"
+        ]
+    },
+    {
+        "question": "以下覆盖条件中,查错能力最强的是(  )",
+        "options": [
+            "语句覆盖",
+            "判定覆盖",
+            "条件覆盖",
+            "路径覆盖"
+        ],
+        "count": 0,
+        "correct": [
+            "路径覆盖"
+        ]
+    },
+    {
+        "question": "以下覆盖条件中,查错能力最弱的是( )",
+        "options": [
+            "语句覆盖",
+            "判定覆盖",
+            "条件覆盖",
+            "路径覆盖"
+        ],
+        "count": 0,
+        "correct": [
+            "语句覆盖"
+        ]
+    },
+    {
+        "question": "以下覆盖条件中,对应覆盖能力由弱到强排列的是(  )",
+        "options": [
+            "语句覆盖、条件覆盖、判定覆盖、条件组合覆盖",
+            "语句覆盖、判定覆盖、条件覆盖、条件组合覆盖",
+            "语句覆盖、判定覆盖、条件覆盖、路径覆盖",
+            "条件覆盖、路径覆盖、语句覆盖、判定覆盖"
+        ],
+        "count": 0,
+        "correct": [
+            "语句覆盖、判定覆盖、条件覆盖、路径覆盖"
+        ]
+    },
+    {
+        "question": "有一组测试用例,它使被测程序中的每一个分支至少执行一次,则它满足的覆盖标准是(  )",
+        "options": [
+            "语句覆盖",
+            "判定覆盖",
+            "条件覆盖",
+            "路径覆盖"
+        ],
+        "count": 0,
+        "correct": [
+            "判定覆盖"
+        ]
+    },
+    {
+        "question": "在不执行代码的条件下有条理地仔细审查软件设计、体系结构和代码,从而找出软件缺陷的测试方法称为(  )",
+        "options": [
+            "静态黑盒",
+            "动态黑盒",
+            "静态白盒",
+            "动态白盒"
+        ],
+        "count": 0,
+        "correct": [
+            "静态白盒"
+        ]
+    },
+    {
+        "question": "以下哪项不属于静态分析?(  )",
+        "options": [
+            "代码规则检查",
+            "程序结构分析",
+            "内存泄露情况",
+            "程序复杂度分析"
+        ],
+        "count": 0,
+        "correct": [
+            "内存泄露情况"
+        ]
+    },
+    {
+        "question": "如果某测试用例集满足条件覆盖,那么它一定同时满足(  )",
+        "options": [
+            "判定覆盖",
+            "路径覆盖",
+            "判定/条件覆盖",
+            "条件组合覆盖"
+        ],
+        "count": 0,
+        "correct": [
+            "判定覆盖"
+        ]
+    },
+    {
+        "question": "白盒测试是根据程序的(  )来设计测试用例,黑盒测试是根据软件的规格说明来设计测试用例",
+        "options": [
+            "功能",
+            "性能",
+            "内部逻辑",
+            "内部数据"
+        ],
+        "count": 0,
+        "correct": [
+            "内部逻辑"
+        ]
+    },
+    {
+        "question": "条件覆盖的目的是( )",
+        "options": [
+            "使每个判定的所有可能的条件取值组合至少执行一次",
+            "使程序中的每个判定至少都获得一次“真”值和“假”值。",
+            "使程序中的每个判定中每个条件的可能值至少满足一次。",
+            "使程序中的每个可执行语句至少执行一次。"
+        ],
+        "count": 0,
+        "correct": [
+            "使程序中的每个判定中每个条件的可能值至少满足一次。"
+        ]
+    },
+    {
+        "question": "不属于单元测试内容的是（  ）",
+        "options": [
+            "模块接口测试",
+            "局部数据结构测试",
+            "路径测试",
+            "用户界面测试"
+        ],
+        "count": 0,
+        "correct": [
+            "用户界面测试"
+        ]
+    },
+    {
+        "question": "以下哪一项测试步骤中需要进行局部数据结构测试(  )",
+        "options": [
+            "单元测试",
+            "集成测试",
+            "确认测试",
+            "系统测试"
+        ],
+        "count": 0,
+        "correct": [
+            "单元测试"
+        ]
+    },
+    {
+        "question": "Junit是用于以下哪一测试阶段的测试工具(  )",
+        "options": [
+            "单元测试",
+            "集成测试",
+            "系统测试",
+            "验收测试"
+        ],
+        "count": 0,
+        "correct": [
+            "单元测试"
+        ]
+    },
+    {
+        "question": "单元测试中用来模拟被测模块的调用者的是(  )",
+        "options": [
+            "父模块",
+            "子模块",
+            "驱动模块",
+            "桩模块"
+        ],
+        "count": 0,
+        "correct": [
+            "驱动模块"
+        ]
+    },
+    {
+        "question": "不属于集成测试步骤的是(  )",
+        "options": [
+            "制定集成计划",
+            "执行集成测试",
+            "记录集成测试结果",
+            "回归测试"
+        ],
+        "count": 0,
+        "correct": [
+            "回归测试"
+        ]
+    },
+    {
+        "question": "软件测试过程中的集成测试主要是为了发现（  ）阶段的错误。",
+        "options": [
+            "需求分析",
+            "概要设计",
+            "详细设计",
+            "编码"
+        ],
+        "count": 0,
+        "correct": [
+            "概要设计"
+        ]
+    },
+    {
+        "question": "自顶向下/自底向上的测试方法用于以下哪一测试阶段( )",
+        "options": [
+            "单元测试",
+            "验收测试",
+            "集成测试",
+            "系统测试"
+        ],
+        "count": 0,
+        "correct": [
+            "集成测试"
+        ]
+    },
+    {
+        "question": "在自底向上测试中,要编写称为(  )的模块来检测被测模块",
+        "options": [
+            "父模块",
+            "子模块",
+            "驱动模块",
+            "桩模块"
+        ],
+        "count": 0,
+        "correct": [
+            "桩模块"
+        ]
+    },
+    {
+        "question": "在自底向上测试中,要编写称为(  )的模块来测验正在测试的模块。",
+        "options": [
+            "测试存根",
+            "测试驱动模块",
+            "桩模块",
+            "底层模块"
+        ],
+        "count": 0,
+        "correct": [
+            "桩模块"
+        ]
+    },
+    {
+        "question": "已知某系统全天的总PV值为5000000,则该系统的峰值QPS等于(  )",
+        "options": [
+            "14.4",
+            "57.8",
+            "173.6",
+            "231.4"
+        ],
+        "count": 0,
+        "correct": [
+            "231.4"
+        ]
+    },
+    {
+        "question": "LoadRunner是用于以下哪一测试内容的测试工具( )",
+        "options": [
+            "功能测试",
+            "性能测试",
+            "代码测试",
+            "安全测试"
+        ],
+        "count": 0,
+        "correct": [
+            "性能测试"
+        ]
+    },
+    {
+        "question": "对Web网站进行的测试中,属于功能测试的是(  )",
+        "options": [
+            "连接速度测试",
+            "链接测试",
+            "兼容性测试",
+            "安全性测试"
+        ],
+        "count": 0,
+        "correct": [
+            "链接测试"
+        ]
+    },
+    {
+        "question": "侧重于观察资源耗尽情况下的软件表现的系统测试被称为(  )",
+        "options": [
+            "强度测试",
+            "压力测试",
+            "容量测试",
+            "性能测试"
+        ],
+        "count": 0,
+        "correct": [
+            "压力测试"
+        ]
+    },
+    {
+        "question": "配置测试(  )",
+        "options": [
+            "是指检查软件之间是否正确交互和共享信息",
+            "是交互适应性、实用性和有效性的集中体现",
+            "是指使用各种硬件来测试软件操作的过程",
+            "检查缺陷是否有效改正"
+        ],
+        "count": 0,
+        "correct": [
+            "是指使用各种硬件来测试软件操作的过程"
+        ]
+    },
+    {
+        "question": "V模型指出，（  ）应当追朔到用户需求说明。",
+        "options": [
+            "代码测试",
+            "集成测试",
+            "验收测试",
+            "单元测试"
+        ],
+        "count": 0,
+        "correct": [
+            "验收测试"
+        ]
+    },
+    {
+        "question": "下列有关测试过程V模型的说法中，正确的是（  ）",
+        "options": [
+            "验收测试应确定程序的执行是否满足软件设计的要求",
+            "系统测试应确定系统功能和性能的质量特性是否达到系统要求的指标",
+            "单元测试和集成测试应确定软件的实现是否满足用户需要或合同的要求",
+            "集成测试在编码结束前就可以开始"
+        ],
+        "count": 0,
+        "correct": [
+            "系统测试应确定系统功能和性能的质量特性是否达到系统要求的指标"
+        ]
+    },
+    {
+        "question": "下列有关软件缺陷生命周期模型状态定义说法中，错误的是（ ）",
+        "options": [
+            "“新建”表示测试中发现并报告了新的软件问题",
+            "“打开”表示软件问题已经被确认并分配给相关开发工程师处理",
+            "“关闭”表示软件问题已被开发人员修复并等待测试人员验证",
+            "“解决”表示软件问题已被确认修复"
+        ],
+        "count": 0,
+        "correct": [
+            "“关闭”表示软件问题已被开发人员修复并等待测试人员验证"
+        ]
+    },
+    {
+        "question": "造成系统本崩溃、死机或者重要数据丢失的缺陷属于（  ）级别的缺陷",
+        "options": [
+            "致命",
+            "严重",
+            "一般",
+            "微小"
+        ],
+        "count": 0,
+        "correct": [
+            "致命"
+        ]
+    },
+    {
+        "question": "下列各项中(  )不是一个测试计划所应包含的内容",
+        "options": [
+            "测试资源、进度安排",
+            "测试预期输出",
+            "测试范围",
+            "测试策略"
+        ],
+        "count": 0,
+        "correct": [
+            "测试预期输出"
+        ]
+    },
+    {
+        "question": "QTP脚本语言采用（  ）",
+        "options": [
+            "VBScript",
+            "C语言",
+            "JAVAScript",
+            "C++"
+        ],
+        "count": 0,
+        "correct": [
+            "VBScript"
+        ]
+    },
+    {
+        "question": "以下哪一项不是软件自动化测试的优点？（ ）",
+        "options": [
+            "速度快，效率高",
+            "准确度和精确度高",
+            "能充分和全面地测试软件",
+            "能提高测试的质量"
+        ],
+        "count": 0,
+        "correct": [
+            "能充分和全面地测试软件"
+        ]
+    },
+    {
+        "question": "自动化测试与手动测试相比较，不能带来的好处是（ ）。",
+        "options": [
+            "缩短软件开发测试周期",
+            "不需要了解任何编程语言",
+            "提高测试教率、充分利用硬件资源",
+            "增强测试稳定性和可靠性"
+        ],
+        "count": 0,
+        "correct": [
+            "不需要了解任何编程语言"
+        ]
+    },
+    {
+        "question": "软件测试应该在编码完成之后进行",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": -1,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "自动化测试可以完全代替手工测试",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": -1,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "可恢复性测试主要检查系统的容错能力",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "缺陷发现得越早,修复成本越高",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "好的测试员不懈追求完美",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "程序员与测试工作无关",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "程序员兼任测试员可以提高工作效率",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "产品说明书(需求文档)的变更应当受到控制",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "找出的软件缺陷越多,说明剩下的软件缺陷越少",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "验收测试是以最终用户为主的测试",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "Beta 测试是由专业软件测试人员执行的一种验收测试",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "代码评审是检查源代码是否达到模块设计的要求",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "软件测试的目的是尽可能多的找出软件的缺陷",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "Beta 测试是验收测试的一种",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "验收测试是由最终用户来实施的",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "发现错误多的程序模块，残留在模块中的错误也可能多",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "项目立项前测试人员不需要提交任何工件",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "Bug就是软件运行时产生的错误",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "测试人员要坚持原则,缺陷未修复完坚决不予通过",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "不存在质量很高但可靠性很差的产品",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "测试错误提示信息不属于文档测试范围",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "软件需求是度量软件质量的基础 ",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "不符合需求的软件就不具备质量"
+        ]
+    },
+    {
+        "question": "全面质量管理的定义是：一个组织以质量为中心，以全员参与为基础，目的在于通过让顾客满意和本组织所有成员及社会受益而达到长期成功的管理途径",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "发现错误是软件测试的唯一目的",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "软件的质量有测试组决定",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "测试从不可知内部条件开始，结果是不可预见的",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "软件缺陷一定是由编码所引起的",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "软件测试等于程序测试",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "软件测试的任务就是为了发现Bug",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "Beta测试是软件的多个用户在实际使用环境下进行的测试",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "经验表明测试后程序残存的错误数目与该程序中以发现的错误数目或检错率成正比",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "验收测试比较适合采用软件自动化测试工具进行测试",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "软件运行时产生的错误是Bug",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "测试是为了验证该软件已正确地实现了用户的要求",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "软件测试能够保证软件的质量",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "软件测试和软件调试是同一回事",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "软件测试是在程序代码编写好之后才开始具体的工作",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "只要我们做了充分的测试，就能保证软件没有BUG",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "软件项目进入需求分析阶段时，测试人员应该开始介入其中",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "穷尽测试一般情况下是不可能的",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "程序所含有的路径数与程序的复杂程度有着直接的关系",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "白盒测试可以找出软件遗漏的功能",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "白盒测试的“条件覆盖”标准强于“判定覆盖",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "白盒测试的条件覆盖标准强于判定覆盖",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "代码评审是检查源代码是否达到模块的要求",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "语句覆盖是最弱的逻辑覆盖标准",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "运行被测程序的测试方法称为动态测试",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "白盒测试是根据程序的功能来设计测试用例",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "白盒测试是根据程序的结构来设计测试用例的",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            " √"
+        ]
+    },
+    {
+        "question": "圈复杂度V(G)的计算出现在黑盒测试过程中",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 1,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "51圈复杂度V(G)与基本路径数有关",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "“路径覆盖”标准属于白盒测试",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "“路径覆盖”标准属于黑盒测试",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "白盒测试中的“语句覆盖”标准强于“判定覆盖”",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            " ×"
+        ]
+    },
+    {
+        "question": "自底向上集成需要测试员编写驱动程序",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "自顶向下集成需要测试员编写驱动程序",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "自底向上集成需要测试员编写桩程序",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "自顶向下集成需要测试员编写桩程序",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "软件的集成测试工作最好由不属于该软件开发组的软件设计人员承担,以提高集成测试的效果",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "单元测试阶段以黑盒测试为主",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "单元测试能发现约80%的软件缺陷",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "Junit是一个用java开发的进行单元测试的半自动化测试工具",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "JUnit是一个用 Java编写而成的单元测试框架",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "验收测试是由最终用户和测试人员共同来实施的",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "最重要的用户界面要素是软件符合现行标准和规范",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "负载测试是验证要检验的系统的能力最高能达到什么程度",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 1,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "压力测试之前应该让整个系统重启，以确保后续的测试在一个“干净”的环境中进行",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "安全性测试最终能证明应用程序是安全无漏洞的",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "性能测试中，发现性能缺陷是唯一目的",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            " ×"
+        ]
+    },
+    {
+        "question": "软件开发全过程的测试工作都可以实现自动化",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "软件测试工具可以代替软件测试员",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "测试时使用测试工具，就是实现了自动化测试",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "QTP是目前市面上流行的一款自动化性能测试工具",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "使用自动化测试工具就能充分和全面地测试软件",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "黑盒测试可以找出代码错误问题",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "在设计测试用例时,应包括合理的和不合理的输入条件",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "用黑盒法测试时，测试用例是根据程序内部逻辑设计的",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "黑盒测试方法中最有效的是因果图法",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
+    },
+    {
+        "question": "黑盒测试是根据程序的功能来设计测试用例的",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "√"
+        ]
+    },
+    {
+        "question": "黑盒测试是根据程序的结构来设计测试用例的",
+        "options": [
+            "√",
+            "×"
+        ],
+        "count": 0,
+        "correct": [
+            "×"
+        ]
     }
 ]
